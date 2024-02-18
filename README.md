@@ -11,7 +11,11 @@ Welcome to my personal space for learning Machine Learning, Deep Learning, and A
 ### **What's Inside:**
 
 * **Projects:** My explorations into different areas of ML, DL, and AL, each documented with code, data, and results.
+  
+  * **Project 1:** [**The Digit Detector**](https://github.com/mdazlaanzubair/Noob2Neural/blob/main/The_DD.ipynb) - A simple project that uses a neural network to classify the handwritten digits.
+    
 * **Experiments:** Playful tests with various algorithms and techniques to learn and understand their functionality.
+  
 * **Resources:** A collection of articles, tutorials, and datasets that fueled my learning journey.
 
 ### **Disclaimer:** 
